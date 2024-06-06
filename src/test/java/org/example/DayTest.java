@@ -86,5 +86,10 @@ public class DayTest {
         assertNotNull(actualResult7, "Is null. Input some value");
     }
 
+    @Test
+    public void numberOfWeek(){
+        System.out.println("It's test");
+    }
+
 }
 
